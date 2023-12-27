@@ -15,7 +15,7 @@ function Navbar(props: NavbarProps) {
 				<li className="mr-5">Projects</li>
 				<li className="mr-5">Contact</li>
 				<li className="mr-8">More</li>
-				<li className="text-2xl" onClick={props.toggleDarkMode}>
+				<li className="text-2xl cursor-pointer" onClick={props.toggleDarkMode}>
 					{props.darkMode ? <FaSun /> : <HiMiniMoon />}
 				</li>
 			</ul>

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "My Resume (.docx, 583kb)",
+        "url": "./assets/Matthew_Sweet_Resume.docx",
+        "icon": "FaFileDownload"
+    },
+    {
+        "name": "Github",
+        "url": "https://github.com/themattbook",
+        "icon": "FaGithub"
+    },
+    {
+        "name": "Linkedin",
+        "url": "https://linkedin.com/in/meetmattsweet",
+        "icon": "FaLinkedin"
+    },
+    {
+        "name": "Email",
+        "url": "mailto:themattbook@gmail.com",
+        "icon": "FaEnvelope"
+    }
+]
