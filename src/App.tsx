@@ -11,14 +11,15 @@ function App() {
 	};
 
 	return (
-		<div id="home"
+		<div
+			id="home"
 			className={`flex flex-col min-h-screen transition-colors ${
 				darkMode
 					? "dark bg-stone-950 text-gray-200"
 					: "bg-white text-gray-800"
 			}`}
 		>
-			<div className="w-4/6 2xl:w-1/2 mx-auto">
+			<div className="w-full p-2 lg:p-0 lg:w-4/6 2xl:w-1/2 mx-auto">
 				<Navbar darkMode={darkMode} toggleDarkMode={toggleDarkMode} />
 				<AboutMe />
 				<Projects />
