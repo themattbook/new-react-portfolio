@@ -1,36 +1,36 @@
 [
-    {
-        "name": "DFNX",
-        "description": "A digital freight network in Vue 3, TypeScript",
-        "image": "/assets/dfnx.webp",
-        "link": "https://dfnfreight.com"
-    },
-    {
-        "name": "React Minimalist Portfolio",
-        "description": "Portfolio in React, Tailwindcss, and TypeScript",
-        "image": "/assets/minimal_portfolio.webp",
-        "link": "https://react-portfolio-3uc1zcqzt-themattbook.vercel.app/",
-        "github": "https://github.com/themattbook/react-portfolio"
-    },
-    {
-        "name": "Next.js Portfolio Site",
-        "description": "A portfolio site in Next.js, Tailwindcss, and Javascript",
-        "image": "/assets/old_portfolio.webp",
-        "link": "https://nextjs-portfolio-tau-nine.vercel.app/",
-        "github": "https://github.com/themattbook/nextjs-portfolio"
-    },
-    {
-        "name": "Weather App",
-        "description": "A simple weather app in Vue 2 and Javascript",
-        "image": "/assets/weather.webp",
-        "link": "https://vue-weather-app-rho.vercel.app/",
-        "github": "https://github.com/themattbook/vue-weather-app"
-    },
-    {
-        "name": "Bulma E-Commerce",
-        "description": "An e-commerce site in Bulma CSS and React",
-        "image": "/assets/bulma.webp",
-        "link": "https://bulma-template-react.vercel.app/",
-        "github": "https://github.com/themattbook/bulma-template-react"
-    }
+	{
+		"name": "DFNX",
+		"description": "A digital freight network in Vue 3, TypeScript",
+		"image": "/assets/dfnx.webp",
+		"link": "https://www.dfnfreight.com/"
+	},
+	{
+		"name": "React Minimalist Portfolio",
+		"description": "Portfolio in React, Tailwindcss, and TypeScript",
+		"image": "/assets/minimal_portfolio.webp",
+		"link": "https://react-portfolio-3uc1zcqzt-themattbook.vercel.app/",
+		"github": "https://github.com/themattbook/react-portfolio"
+	},
+	{
+		"name": "Next.js Portfolio Site",
+		"description": "A portfolio site in Next.js, Tailwindcss, and Javascript",
+		"image": "/assets/old_portfolio.webp",
+		"link": "https://nextjs-portfolio-tau-nine.vercel.app/",
+		"github": "https://github.com/themattbook/nextjs-portfolio"
+	},
+	{
+		"name": "Weather App",
+		"description": "A simple weather app in Vue 2 and Javascript",
+		"image": "/assets/weather.webp",
+		"link": "https://vue-weather-app-rho.vercel.app/",
+		"github": "https://github.com/themattbook/vue-weather-app"
+	},
+	{
+		"name": "Bulma E-Commerce",
+		"description": "An e-commerce site in Bulma CSS and React",
+		"image": "/assets/bulma.webp",
+		"link": "https://bulma-template-react.vercel.app/",
+		"github": "https://github.com/themattbook/bulma-template-react"
+	}
 ]
