@@ -6,25 +6,32 @@
 		"link": "https://www.dfnfreight.com/"
 	},
 	{
-		"name": "React Minimalist Portfolio",
-		"description": "Portfolio in React, Tailwindcss, and TypeScript",
-		"image": "/assets/minimal_portfolio.webp",
-		"link": "https://react-portfolio-3uc1zcqzt-themattbook.vercel.app/",
-		"github": "https://github.com/themattbook/react-portfolio"
+		"name": "Sass UI Framework",
+		"description": "A custom-built Sass template for a 12 column grid system",
+		"image": "/assets/sass_framework.webp",
+		"link": "https://github.com/themattbook/sass-framework",
+		"github": "https://github.com/themattbook/sass-framework"
 	},
 	{
-		"name": "Next.js Portfolio Site",
-		"description": "A portfolio site in Next.js, Tailwindcss, and Javascript",
-		"image": "/assets/old_portfolio.webp",
-		"link": "https://nextjs-portfolio-tau-nine.vercel.app/",
-		"github": "https://github.com/themattbook/nextjs-portfolio"
+		"name": "Tornado Tracker",
+		"description": "You can now see the path of every US tornado since 1955",
+		"image": "/assets/tornado_tracker.webp",
+		"link": "https://tornadovisualizer.vercel.app/",
+		"github": "https://github.com/themattbook/tornadovisualizer"
 	},
 	{
-		"name": "Weather App",
-		"description": "A simple weather app in Vue 2 and Javascript",
-		"image": "/assets/weather.webp",
-		"link": "https://vue-weather-app-rho.vercel.app/",
-		"github": "https://github.com/themattbook/vue-weather-app"
+		"name": "Next.js Todo List",
+		"description": "I mean, you have to have a todo list, right?",
+		"image": "/assets/todo_list.webp",
+		"link": "https://nextjs-todo-list-nine.vercel.app/",
+		"github": "https://github.com/themattbook/nextjs-todo-list"
+	},
+	{
+		"name": "Minimalist Portfolio",
+		"description": "I Swissted up my portfolio site",
+		"image": "/assets/swiss_portfolio.webp",
+		"link": "https://sass-react-portfolio.vercel.app/",
+		"github": "https://github.com/themattbook/react-portfolio-sass"
 	},
 	{
 		"name": "Bulma E-Commerce",

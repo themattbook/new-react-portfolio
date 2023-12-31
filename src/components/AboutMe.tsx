@@ -39,7 +39,7 @@ function AboutMe() {
 				<ul className="flex flex-col mx-auto lg:mx-0 lg:flex-row lg:flex-wrap justify-between font-bold mt-3 text-sm 2xl:w-5/6">
 					{links.map((link, index) => (
 						<li
-							className="mt-3 2xl:mt-5 p-2 bg-indigo-500 text-white rounded-xl"
+							className="mt-3 2xl:mt-5 p-2 bg-sky-600 hover:bg-sky-700 dark:bg-sky-800 text-white rounded-xl"
 							key={index}
 						>
 							<a
@@ -53,7 +53,7 @@ function AboutMe() {
 					))}
 				</ul>
 			</div>
-			<div className="hidden lg:block w-1/2 lg:flex lg:flex-col items-center">
+			<div className="hidden w-1/2 lg:flex lg:flex-col items-center">
 				<img
 					src="/assets/me.webp"
 					alt="An artist's impression of me"
