@@ -15,7 +15,7 @@ function App() {
 			id="home"
 			className={`flex flex-col min-h-screen transition-colors ${
 				darkMode
-					? "dark bg-stone-950 text-gray-200"
+					? "dark bg-stone-950 text-white"
 					: "bg-white text-gray-800"
 			}`}
 		>

@@ -12,7 +12,7 @@ function Navbar(props: NavbarProps) {
 			<div className="fixed top-0 left-0 right-0">
 				<nav className="flex flex-col lg:flex-row items-center w-full lg:w-4/6 2xl:w-1/2 mx-auto p-4 bg-white dark:bg-stone-950 transition-colors">
 					<h4>Matt Sweet</h4>
-					<ul className="flex items-center mx-auto lg:mx-0 lg:ml-auto text-sm text-gray-800 dark:text-gray-200 font-bold uppercase">
+					<ul className="flex items-center mx-auto lg:mx-0 lg:ml-auto text-sm text-gray-800 dark:text-white font-bold uppercase">
 						<li className="mr-5">
 							<Link to="home" smooth={true} duration={700}>
 								Home

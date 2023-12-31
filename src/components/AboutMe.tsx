@@ -36,10 +36,10 @@ function AboutMe() {
 					Digital Freight Network.
 				</p>
 				<p className="text-lg mt-3">Want to know more?</p>
-				<ul className="flex flex-col mx-auto lg:mx-0 lg:flex-row lg:flex-wrap justify-between font-bold mt-3 text-sm 2xl:w-5/6">
+				<ul className="flex flex-col mx-auto lg:mx-0 lg:flex-row lg:flex-wrap font-bold mt-3 text-sm 2xl:w-5/6">
 					{links.map((link, index) => (
 						<li
-							className="mt-3 2xl:mt-5 p-2 bg-sky-600 hover:bg-sky-700 dark:bg-sky-800 text-white rounded-xl"
+							className="mt-3 sm:mr-3 2xl:mt-5 p-2 bg-sky-600 hover:bg-sky-700 dark:bg-sky-800 text-white rounded-xl"
 							key={index}
 						>
 							<a

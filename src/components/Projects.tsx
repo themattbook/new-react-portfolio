@@ -21,13 +21,13 @@ function Projects() {
 							<p className="mb-3">{project.description}</p>
 							<div>
 								<a href={project.link} target="_blank">
-									<span className="bg-gray-800 text-white p-2 rounded-xl">
+									<span className="bg-gray-700 text-white p-2 rounded-xl">
 										Live
 									</span>
 								</a>
 								{project.github && (
 									<a href={project.github} target="_blank">
-										<span className="bg-gray-800 text-white p-2 rounded-xl ml-3">
+										<span className="bg-gray-700 text-white p-2 rounded-xl ml-3">
 											Code
 										</span>
 									</a>
