@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Uproar",
+		"description": "A social media concept in React and Sass",
+		"image": "/assets/uproar.webp",
+		"link": "https://social-network-beta-snowy.vercel.app/",
+		"github": "https://github.com/themattbook/uproar-beta"
+	},
+	{
 		"name": "DFNX",
 		"description": "A digital freight network in Vue 3, TypeScript",
 		"image": "/assets/dfnx.webp",
