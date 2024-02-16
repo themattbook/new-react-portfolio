@@ -20,11 +20,11 @@
 		"github": "https://github.com/themattbook/sass-framework"
 	},
 	{
-		"name": "Tornado Tracker",
+		"name": "TornadoTrax",
 		"description": "You can now see the path of every US tornado since 1955",
 		"image": "/assets/tornado_tracker.webp",
-		"link": "https://tornadovisualizer.vercel.app/",
-		"github": "https://github.com/themattbook/tornadovisualizer"
+		"link": "https://tornadotrax.vercel.app/",
+		"github": "https://github.com/themattbook/tornadotrax"
 	},
 	{
 		"name": "Next.js Todo List",
